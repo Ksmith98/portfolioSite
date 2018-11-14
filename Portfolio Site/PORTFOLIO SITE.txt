@@ -1,0 +1,21 @@
+[NEEDS]
+-WORK
+-LINKS
+-ICON 
+-INTERACTIVITY 
+
+[CHECK]
+-Layout
+-PALLETE
+-FONTS
+
+[Notes]
+{Work}
+-Find more to place 
+-
+
+{About Me}
+
+
+{Splash}
+-Intro Animation 
