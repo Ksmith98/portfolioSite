@@ -30,18 +30,18 @@ body {
   }
 
 .main-nav a {
-    background: var(--black);
-    display: block;
+    background: var(--gold);
+    display: inline-grid	;
     text-decoration: none;
     padding: 0.8rem;
-    text-align: center;
+    text-align: right;
     color: var(--white);
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
 
 .main-nav a:hover {
-    background: var(--black);
-    color: var(--gold);
+    background: var(--gold);
+    color: var(--black);
   }
  
   /* Image Grid */
@@ -50,7 +50,7 @@ body {
     justify-content: left;
     align-items: left;
     font-size: 2em;
-    color: #ffeead;
+    color: var(--gold);
 }
 
 .container > div > img {
