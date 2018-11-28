@@ -1,3 +1,7 @@
+[Fixes]
+*Remove border boxes around nav bar 
+*Move Nav bar align right 
+
 [NEEDS]
 -WORK
 -LINKS
